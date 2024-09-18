@@ -35,7 +35,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [x] https://www.conventionalcommits.org/fr/v1.0.0/
   - [x] Renommer son dernier commit en respectant cette convention
 * [ ] Comprendre le fonctionnement des branches dans Git :
-  - [ ] Lister, changer, créer, supprimer des branches
+  - [x] Lister, changer, créer, supprimer des branches
   - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
 * [ ] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
